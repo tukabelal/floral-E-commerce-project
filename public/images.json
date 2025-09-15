@@ -1,0 +1,231 @@
+{
+  "plants": [
+    {
+      "id": 1,
+      "name": " Pot",
+      "url": "/plants/Norell Plant Pot - Black.jpeg",
+      "description": "A Modern Black Pot Made From Indian Clay",
+      "price": 20,
+      "sale": true,
+      "category": "plants"
+    },
+    {
+      "id": 2,
+      "name": " Planter",
+      "url": "/plants/Greeneria Round Sleek Black Ceramic Centerpiece Planter Pot - Modern Decorative Indoor Outdoor 5_ H x 12_ Flower Pot.jpeg",
+      "description": "A Modern Black Pot Made From Indian Clay",
+      "price": 20,
+      "sale": true,
+      "category": "plants"
+    },
+    {
+      "id": 3,
+      "name": " Tool Set",
+      "url": "/plants/Mini Orb Kevan Plant Pot - Black Washed (1).jpeg",
+      "description": "A Modern Black Pot Made From Indian Clay",
+      "price": 20,
+      "category": "plants"
+    },
+    {
+      "id": 4,
+      "name": " Grey Pot",
+      "url": "/plants/Bouclair _ Artificial Plant in Black Matte Ceramic Pot.jpeg",
+      "best": "best seller",
+      "price": 20,
+      "category": "plants"
+    },
+    {
+      "id": 5,
+      "name": "Black ",
+      "url": "/plants/Buy Cute Black Plant Pot Wood Plant Holder Wood Black Planter Cactus Cache Pot Wood Desk Planter Online in India - Etsy.jpeg",
+      "category": "plants",
+      "price": 20
+    },
+    {
+      "id": 6,
+      "name": " Tool Set",
+      "url": "/plants/Ceramic Plant Pot 6 Inch Planter With Drainage Hole & Saucer For Indoor & Out___.jpeg",
+      "category": "plants",
+      "sale": true,
+      "price": 20
+    },
+    {
+      "id": 7,
+      "name": " Grey Pot",
+      "url": "/plants/Chlorophytum Variegatum - Spider Plant - 19 x 60cm (1).jpeg",
+      "best": "best seller",
+      "category": "plants",
+      "price": 20
+    },
+    {
+      "id": 8,
+      "name": " Ceramic Planter",
+      "url": "/plants/Fibre Clay Plant Pots Indoor_Outdoor Modern Contemporary Flower Pot Planters Patio Decking Lawn Doorstep Porch Houseplant Shrub Topiary Bush Plant Pot Clay Planters (Grey, Small).jpeg",
+      "category": "plants",
+      "price": 20
+    },
+    {
+      "id": 9,
+      "name": " Tool Set",
+      "url": "/plants/Cute Small Houseplants Perfect For Tiny Spaces.jpeg",
+      "category": "plants",
+      "price": 20
+    },
+    {
+      "id": 10,
+      "name": " Tool Set",
+      "url": "/plants/Piante d'appartamento grandi _ Guida Giardino.jpeg",
+      "category": "plants",
+      "price": 20
+    },
+    {
+      "id": 11,
+      "name": "Tool Set",
+      "url": "/plants/Faux Eyebrow Leaf Plant In White Footed Pot - World Market.jpeg",
+      "category": "plants",
+      "price": 20
+    },
+    {
+      "id": 12,
+      "name": "Grey Pot",
+      "url": "/plants/The 6 Best Plants I Swear By for Even the Darkest Corners of My Home.jpeg",
+      "category": "plants",
+      "price": 20
+    },
+    {
+      "id": 13,
+      "name": " Planter",
+      "url": "/plants/Monstera Deliciosa Care.jpeg",
+      "category": "plants",
+      "price": 20
+    },
+    {
+      "id": 14,
+      "name": " Plant",
+      "url": "/plants/Download premium png of Fiddle leaf fig tree design element by Felix about tree png, plant png, png, potted plant, and leaf png 1224506.jpeg",
+      "category": "plants",
+      "price": 20
+    },
+    {
+      "id": 15,
+      "name": "Grey Pot",
+      "url": "/plants/b403c99f-0dc3-4107-9067-458d5aa49dfd.jpeg",
+      "category": "plants",
+      "price": 20
+    }
+  ],
+  "toolsAndPots": [
+    {
+      "id": 1,
+      "name": "Black Pot",
+      "url": "/toolsPots/5ee4182a-04b9-4ce0-8aa7-a3dda0e7300a.jpeg",
+      "description": "A Modern Black Pot Made From Indian Clay",
+      "price": 20,
+      "sale": true,
+      "category": "tools"
+    },
+    {
+      "id": 2,
+      "name": "Planter",
+      "url": "/toolsPots/2ae76255-19ae-4012-9eed-485144e4e926.jpeg",
+      "price": 20,
+      "sale": true,
+      "category": "tools"
+    },
+    {
+      "id": 3,
+      "name": " Tool Set",
+      "url": "/toolsPots/Farmhouse Pottery - Walnut Handled Garden Tools.jpeg",
+      "category": "tools",
+      "price": 20
+    },
+    {
+      "id": 4,
+      "name": "Clay  Pot",
+      "url": "/toolsPots/977225d6-90c8-423e-9963-3349cba56437.jpeg",
+      "category": "tools",
+      "price": 20,
+      "best": "best seller"
+    },
+    {
+      "id": 5,
+      "name": "Black ",
+      "url": "/toolsPots/AllModern Kensington Ceramic Pot Planter _ Wayfair.jpeg",
+      "category": "tools",
+      "price": 20
+    },
+    {
+      "id": 6,
+      "name": " Tool Set",
+      "url": "/toolsPots/White Flower Pot With Stand _ Hobby Lobby _ 1725639.jpeg",
+      "category": "tools",
+      "sale": true,
+      "price": 20
+    },
+    {
+      "id": 7,
+      "name": "Modern Pot ",
+      "url": "/toolsPots/Garden Tool Set.jpeg",
+      "category": "tools",
+      "price": 20
+    },
+
+    {
+      "id": 9,
+      "name": "Tool Set",
+      "url": "/toolsPots/download.jpeg",
+      "category": "tools",
+      "price": 20
+    },
+    {
+      "id": 10,
+      "name": " Tool Set",
+      "url": "/toolsPots/HAND-PAINTING – Vietnam concrete planter manufacturer, vietnamese ceramic wholesale.jpeg",
+      "category": "tools",
+      "price": 20
+    },
+    {
+      "id": 11,
+      "name": "Modern  Pot",
+      "url": "/toolsPots/Indoor Black Marion Pot with Saucer, Small.jpeg",
+      "category": "tools",
+      "price": 20
+    },
+    {
+      "id": 8,
+      "name": " Ceramic",
+      "url": "/toolsPots/Hand Cultivator.jpeg",
+      "category": "tools",
+      "price": 20
+    },
+    {
+      "id": 12,
+      "name": " Ceramic ",
+      "url": "/toolsPots/Kmart Pot with Saucer - Black.jpeg",
+      "category": "tools",
+      "price": 20
+    },
+
+    {
+      "id": 13,
+      "name": " Gardening Tool Set",
+      "url": "/toolsPots/Black Modern Planter _ Hobby Lobby _ 6021794.jpeg",
+      "category": "tools",
+      "price": 20
+    },
+    {
+      "id": 14,
+      "name": " Grey Pot",
+      "url": "/toolsPots/Mini Orb Kevan Plant Pot - Black Washed.jpeg",
+      "category": "tools",
+      "price": 20
+    },
+    {
+      "id": 15,
+      "name": "Black ",
+      "url": "/toolsPots/Planting Shovel.jpeg",
+      "category": "tools",
+      "price": 20
+    }
+  ]
+}

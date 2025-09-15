@@ -1,0 +1,20 @@
+body {
+  background: none;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande";
+}
+
+.login-wallpaper {
+  background: url("/view-green-palm-tree-species-with-beautiful-foliage (1).jpg")
+    no-repeat;
+  background-size: 34cm 17cm;
+}
+
+.logo:hover {
+  filter: drop-shadow(0 0 2em #56ec6faa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #56ec6faa);
+}

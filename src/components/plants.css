@@ -1,0 +1,51 @@
+.plants-page {
+  padding: 20px;
+  text-align: center;
+}
+
+.plants-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(200px, 1fr));
+  gap: 20px;
+  margin-top: 20px;
+}
+.grid-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.plants-image {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.gridd-item p {
+  margin-top: 10px;
+  font-size: 16px;
+  font-weight: bold;
+  color: black;
+}
+.sale-tag {
+  width: 55px;
+  height: 25px;
+  background-color: #47581b;
+  position: absolute;
+  border-radius: 8px;
+  color: white;
+  margin-top: -300px;
+}
+.link {
+  color: black;
+}
+.link:hover {
+  color: black;
+}
+.link:active {
+  color: black;
+}

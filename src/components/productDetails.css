@@ -1,0 +1,77 @@
+.tools-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 20px;
+}
+
+.grid-item img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+.grid-item img:hover {
+  transform: scale(1.05);
+}
+
+.product-details img {
+  max-width: 600px;
+  position: absolute;
+  height: 600px;
+  left: 10px;
+}
+.product-details {
+  padding: 40px;
+  margin-left: 670px;
+}
+.name {
+  position: absolute;
+  margin-top: 30px;
+}
+.desc {
+  margin-top: 150px;
+  font-size: 24px;
+}
+.price {
+  font-size: 24px;
+  position: absolute;
+  margin-top: 100px;
+}
+.size {
+  font-size: 20px;
+  cursor: pointer;
+  margin-bottom: -20px;
+}
+.options {
+  cursor: pointer;
+  width: 500px;
+  height: 40px;
+  border-radius: 20px;
+  padding: 10px;
+  margin-top: 20px;
+}
+.buttons {
+  margin-top: 30px;
+}
+.minus {
+  margin-right: 10px;
+  color: white;
+  background-color: black;
+}
+.plus {
+  margin-left: 10px;
+  color: white;
+  background-color: black;
+}
+.add {
+  width: 500px;
+  border-radius: 20px;
+  color: white;
+  background-color: black;
+  margin-top: 40px;
+}
+.add-to-cart {
+  margin-top: 20px;
+}

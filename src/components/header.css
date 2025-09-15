@@ -1,0 +1,221 @@
+.header {
+  width: 100vw;
+  height: 50px;
+}
+.logo2 {
+  width: 70px;
+  height: 70px;
+  margin-left: -5px;
+  margin-top: -30px;
+  position: absolute;
+}
+.logo2:hover {
+  filter: drop-shadow(0 0 2em #11095aaa);
+}
+.logo2.react:hover {
+  filter: drop-shadow(0 0 2em #11095aaa);
+}
+
+.bloom2 {
+  position: absolute;
+  margin-left: 60px;
+  margin-top: -14px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande";
+}
+.user2 {
+  position: absolute;
+  margin-left: 900px;
+  margin-top: 2px;
+}
+.loginn {
+  position: absolute;
+  margin-left: 921px;
+  margin-top: 0px;
+}
+.icons2 {
+  margin-left: 120px;
+}
+
+.log {
+  cursor: pointer;
+}
+.log:hover {
+  color: #003209aa;
+}
+.search {
+  position: absolute;
+  margin-left: 800px;
+  margin-top: 2px;
+  cursor: pointer;
+}
+.search:hover {
+  color: #022308aa;
+}
+.cart {
+  position: absolute;
+  margin-left: 1020px;
+  margin-top: 2px;
+  cursor: pointer;
+}
+.cart:hover {
+  color: #022308aa;
+}
+.links {
+  position: absolute;
+  margin-left: 220px;
+  font-size: 21px;
+}
+.plants {
+  color: black;
+  cursor: pointer;
+  margin-right: 50px;
+}
+.plants:hover {
+  color: #022308aa;
+}
+.plants:active {
+  color: black;
+}
+.tools {
+  color: black;
+  cursor: pointer;
+  margin-right: 50px;
+}
+.tools:hover {
+  color: #022308aa;
+}
+.tools:active {
+  color: black;
+}
+.sale {
+  color: black;
+  cursor: pointer;
+  margin-right: 50px;
+}
+.sale:hover {
+  color: #022308aa;
+}
+.sale:active {
+  color: black;
+}
+.search-container {
+  position: absolute;
+  display: inline-block;
+}
+.search-input {
+  border: none;
+  outline: none;
+  padding: 5px;
+  width: 300px;
+  font-size: 14px;
+  border-radius: 4px;
+}
+.sidebar {
+  position: fixed;
+  top: 0;
+  right: -300px;
+  height: 100%;
+  width: 300px;
+  background-color: #fff;
+  box-shadow: -2px 0 5px rgba(0, 0, 0, 0.2);
+  z-index: 1000;
+  transition: right 0.3s ease;
+}
+.sidebar.open {
+  right: 0;
+}
+
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  z-index: 999;
+}
+.sidebar h2 {
+  margin: 20px;
+  font-size: 24px;
+  color: #000000;
+}
+.sidebar p {
+  margin: 20px;
+  font-size: 16px;
+  color: #000000;
+}
+.search-bar {
+  padding-top: 8px;
+  padding-left: 12px;
+  box-shadow: none;
+  position: absolute;
+  margin-left: 480px;
+  width: 300px;
+  outline: none;
+  border: none;
+  border-bottom: 1px solid #000000;
+}
+.search-results {
+  margin: 20px auto;
+  padding: 20px;
+  text-align: center;
+}
+
+.results-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 20px;
+  justify-items: center;
+}
+
+.result-item {
+  border: 1px solid #ccc;
+  padding: 15px;
+  background-color: #f9f9f9;
+  text-align: center;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.result-image {
+  width: 100%;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.sale-tag {
+  background-color: red;
+  color: white;
+  padding: 5px;
+  margin-top: 5px;
+  font-weight: bold;
+}
+
+.best-tag {
+  background-color: green;
+  color: white;
+  padding: 5px;
+  margin-top: 5px;
+  font-weight: bold;
+  border: 1px solid #ccc;
+
+}
+.dropdown-menu{
+  position: absolute;
+  left: 1050px;
+  top: 50px;
+  
+}
+ .dropdown-item {
+  display: block;
+  width: 100%;
+  padding: 8px 10px;
+  background: none;
+  border: none;
+  text-align: left;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.dropdown-item:hover {
+  background-color: #f4f4f4;
+}  

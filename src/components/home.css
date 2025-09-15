@@ -1,0 +1,114 @@
+.home {
+  margin-top: 50px;
+  height: 1800px;
+}
+.pic {
+  position: absolute;
+  width: 780px;
+  height: 380px;
+}
+.footer2 {
+  font-size: 22px;
+  width: 780px;
+  height: 230px;
+  color: white;
+  position: absolute;
+  background-color: #212516;
+  margin-top: 380px;
+}
+.text {
+  margin-top: 80px;
+  margin-left: 40px;
+}
+h4 {
+  position: absolute;
+  margin-top: -50px;
+  margin-left: 580px;
+  font-weight: 100;
+  text-decoration: underline;
+  opacity: 0.75;
+}
+.linkk {
+  color: white;
+}
+.linkk:hover {
+  color: white;
+}
+.linkk:active {
+  color: white;
+}
+.best {
+  position: absolute;
+  margin-top: 660px;
+  padding-left: 30px;
+}
+.plants-grid {
+  padding: 50px;
+  position: absolute;
+  top: 850px;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(100px, 1fr));
+  gap: 20px;
+  margin-top: 20px;
+  text-align: center;
+}
+.plants-image {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+.grid-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.griddd-item p {
+  margin-top: 10px;
+  margin-left: 150px;
+  font-size: 16px;
+  font-weight: bold;
+  color: black;
+}
+.home2 {
+  color: black;
+  margin-left: -70px;
+  margin-right: 50px;
+}
+.home2:hover {
+  color: black;
+}
+.home2:active {
+  color: black;
+}
+.seller {
+  background-color: #e1fabf;
+  width: 100%;
+  height: 600px;
+  position: absolute;
+  margin-top: 1450px;
+}
+.woman {
+  position: relative;
+  width: 500px;
+  height: 500px;
+  margin-top: 50px;
+  margin-left: 20px;
+}
+.seller-text {
+  position: relative;
+  top: -450px;
+  left: 600px;
+  font-size: 20px;
+}
+.effort {
+  font-size: 55px;
+}
+.amelia {
+  position: relative;
+  right: 495px;
+  top: 25px;
+}

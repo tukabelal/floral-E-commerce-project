@@ -1,0 +1,156 @@
+.footer {
+  background-color: #e1fabf;
+  width: 1295px;
+  height: 380px;
+  margin-left: -10px;
+  margin-top: 620px;
+  position: absolute;
+  color: black;
+  text-align: center;
+}
+
+.product-details-footer {
+  position: absolute;
+  margin-top: -50px;
+}
+.logo {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  margin-left: -640px;
+  margin-top: -10px;
+}
+
+.blooom {
+  color: black;
+  position: absolute;
+  margin-left: 95px;
+  margin-top: -6px;
+  font-weight: 900;
+  font-size: 16px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+#join {
+  font-weight: 900;
+  font-size: 50px;
+}
+.head {
+  font-weight: 100px;
+}
+.email2 {
+  width: 230px;
+  height: 30px;
+  border-radius: 20px;
+  padding-left: 20px;
+  outline: none;
+  border: none;
+}
+.about {
+  color: white;
+  font-weight: 300;
+  margin-left: -360px;
+}
+.about:active {
+  color: white;
+}
+.about:hover {
+  color: white;
+}
+.about:visited {
+  color: white;
+}
+.shipping {
+  color: white;
+  margin-left: 45px;
+  font-weight: 300;
+}
+.shipping:active {
+  color: white;
+}
+.shipping:hover {
+  color: white;
+}
+.shipping:visited {
+  color: white;
+}
+.privacy {
+  color: white;
+  margin-left: 45px;
+  font-weight: 300;
+}
+.privacy:active {
+  color: white;
+}
+.privacy:hover {
+  color: white;
+}
+.privacy:visited {
+  color: white;
+}
+.terms {
+  color: white;
+  margin-left: 45px;
+  font-weight: 300;
+}
+.terms:active {
+  color: white;
+}
+.terms:hover {
+  color: white;
+}
+.terms:visited {
+  color: white;
+}
+.refund {
+  color: white;
+  margin-left: 45px;
+  font-weight: 300;
+}
+.refund:active {
+  color: white;
+}
+.refund:hover {
+  color: white;
+}
+.refund:visited {
+  color: white;
+}
+.custSer {
+  color: white;
+  margin-left: 45px;
+  font-weight: 300;
+}
+.custSer:active {
+  color: white;
+}
+.custSer:hover {
+  color: white;
+}
+.custSer:visited {
+  color: white;
+}
+.icons {
+  display: inline-block;
+  position: absolute;
+  margin-left: 430px;
+  cursor: pointer;
+}
+.facebook {
+  margin-left: -400px;
+}
+.instagram {
+  margin-left: 30px;
+}
+.twitter {
+  margin-left: 30px;
+}
+.input {
+  display: inline-block;
+}
+.send {
+  position: absolute;
+  margin-left: 130px;
+  margin-top: -65px;
+  cursor: pointer;
+}
